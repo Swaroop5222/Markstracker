@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/markstracker/static/css/main.dd5140ef.css",
+    "main.js": "/markstracker/static/js/main.d92a8a0f.js",
+    "static/js/453.3050e390.chunk.js": "/markstracker/static/js/453.3050e390.chunk.js",
+    "index.html": "/markstracker/index.html",
+    "main.dd5140ef.css.map": "/markstracker/static/css/main.dd5140ef.css.map",
+    "main.d92a8a0f.js.map": "/markstracker/static/js/main.d92a8a0f.js.map",
+    "453.3050e390.chunk.js.map": "/markstracker/static/js/453.3050e390.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd5140ef.css",
+    "static/js/main.d92a8a0f.js"
+  ]
+}
